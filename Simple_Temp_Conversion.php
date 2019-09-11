@@ -20,7 +20,7 @@ echo <<<_END
 
 <html>
     <head>
-        <title><font color="red">Temperature Converter</font>
+        <title>Temperature Converter
         </title>
     </head>
     <body>
